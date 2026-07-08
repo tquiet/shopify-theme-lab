@@ -44,3 +44,4 @@ Shopify Theme Lab is a customizable modular development environment for blazing-
 
 Everyone is welcome to make Shopify theme development better! Please read the [Contributing guide](.github/CONTRIBUTING.md) before creating issues or submitting pull requests.
 <!-- contributing (end) -->
+<!-- updated -->
